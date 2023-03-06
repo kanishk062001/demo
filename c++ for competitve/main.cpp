@@ -17,4 +17,5 @@ int main()
         cout << word << " \n";
     }
     cout << endl;
+    updated the code 
 }
