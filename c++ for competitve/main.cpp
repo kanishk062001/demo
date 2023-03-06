@@ -12,6 +12,7 @@ int main()
     cin>>b;
     cin>>ddgffh;
     cout<<" this is "<<b;
+    cout<<ddgffh;
     for (const string& word : msg)
     {
         cout << word << " \n";
