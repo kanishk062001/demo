@@ -9,7 +9,7 @@ int main()
     vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
     cout<< "enter input";
     int a;
-    cin>>a;
+    cin>>b;
     cout<<" this is "<<a;
 
     for (const string& word : msg)
