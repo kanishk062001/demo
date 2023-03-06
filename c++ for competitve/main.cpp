@@ -8,8 +8,9 @@ int main()
 {
     vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
     cout<< "enter input";
-    int a;
+    int a, b ,aasd;
     cin>>b;
+    cin>>ddgffh
     cout<<" this is "<<a;
 
     for (const string& word : msg)
